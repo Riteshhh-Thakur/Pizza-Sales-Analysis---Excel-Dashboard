@@ -1,5 +1,3 @@
-# Pizza-Sales-Analysis---Excel-Dashboard
-An interactive Excel dashboard visualizing pizza sales with dynamic slicers, KPIs, trend analysis, and revenue breakdowns by size, category, and time. Built using pivot tables, charts and clean design to deliver sharp business insights.
 # 🍕 Excel Pizza Sales Dashboard
 
 An interactive Excel dashboard that analyzes pizza sales data to uncover trends, performance insights, and strategic opportunities. Designed with clean visuals and dynamic filters to support data-driven decision making.
@@ -41,34 +39,9 @@ Sales dashboards like this help businesses:
 
 ---
 
-## ▶️ How to Use
-
-1. Open the Excel file  
-2. Use slicers and timeline to filter data  
-3. Explore different views: time trends, category-wise performance, top-selling items  
-4. Interpret insights and patterns directly from visuals
-
----
-
-## 📁 Files Included
-
-- `Pizza_Sales_Dashboard.xlsx` – Fully interactive dashboard  
-- `README.md` – This documentation  
-- (Optional) `pizza_sales_data.csv` – Source data (if available)
-
----
-
 ## 📷 Preview
 
-_Screenshot or GIF can go here in the actual repo_
+<img width="1852" height="871" alt="Pizza Dashboard" src="https://github.com/user-attachments/assets/8d37e675-b580-4c8f-a76b-8a4335d7101e" />
 
----
 
-## 📬 Contact
 
-Questions or collaboration inquiries welcome.
-
-- 📧 Email: yourname@email.com  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-
----
